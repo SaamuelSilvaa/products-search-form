@@ -1,0 +1,10 @@
+h1 {
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+.input {
+    width: 60px;
+}
